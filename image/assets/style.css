@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: right;
+    background-color: aquamarine;
+}
+
+h2 {
+    text-align: right;
+    background-color: aquamarine;
+}
+
+li {
+    text-align: center;
+    color: aqua;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+div {
+   background-color: black;color: white;padding: 20px;;
+}
+
+img {
+    alt: 300;
+}
